@@ -1,7 +1,7 @@
 +++
 title = "Welcome to CURTS"
 sort_by = "date"
-template = "base-section.html" 
+template = "section.html" 
 [extra]
 date = 2023-03-03
 author="Maxwell Pettett"

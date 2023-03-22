@@ -1,11 +1,7 @@
-{% extends "base-section.html" %}
+{% extends "section.html" %}
 
-{% block content %}
-<h1 class="title">
-	{{ section.title }}
-</h1>
 
-{{ section.content | safe }}
+{% block list %}
 
 <h1 class="title">List of former committees:</h1>
 
@@ -14,4 +10,4 @@
 	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
 	{% endfor %}
 </ul>
-{% endblock content %}
+{% endblock list %}
