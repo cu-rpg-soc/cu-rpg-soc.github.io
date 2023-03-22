@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+
+
+
+<h1 class="title">
+	{{ page.title }}
+</h1>
+{{ page.content | safe }}
+
+{% endblock content %}
+
+{% block footer %}
+<p class="subtitle">Last updated <strong>{{ page.date }}</strong> by {{ page.extra["author"] }}</p>
+{% endblock footer %}

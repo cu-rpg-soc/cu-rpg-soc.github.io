@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>CURTS</title>
+	<link rel="stylesheet" href="/global.css">
+</head>
+
+<body class="page_back">
+
+	<div id="navbar">
+		<a href="/"><img src="/logo-wide.png" width="200" /></a>
+		<p> Cambridge University Roleplaying and Tabletop Gaming Society</p>
+
+		<div id="navbar-right">
+			<a href="{{ get_url(path='@/about-us/membership.md') }}">Membership</a>
+			<a href="{{ get_url(path='@/about-us/constitution.md') }}">Constitution</a>
+			<a href="{{ get_url(path='@/games-resources/library.md') }}">Library</a>
+			<a href="{{ get_url(path='@/committee/_index.md') }}">Committee</a>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="page_core">
+			{% block content %} {% endblock %}
+		</div>
+	</div>
+
+	<div class="footer">
+		{% block footer %} {% endblock %}
+	</div>
+</body>
+
+</html>
