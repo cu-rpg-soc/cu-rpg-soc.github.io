@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+	{{ section.title }}
+</h1>
+
+{{ section.content | safe }}
+
+
+{% endblock %}
+
+{% block footer %}
+<p class="subtitle">Last updated <strong>{{ section.extra["date"] }}</strong> by {{ section.extra["author"] }}</p>
+{% endblock %}
