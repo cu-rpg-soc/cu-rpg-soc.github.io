@@ -21,7 +21,7 @@ The bulk of our membership play RPGs, and our bi-weekly one-shot sessions typica
 
 ### Yearly Squash
 
-During Fresher’s Week at the start of the academic year, Cambridge’s student societies hold introductory events known as “squashes” so freshers can explore their options and determine how they wish to spend their precious free time. CURTS is no exception.
+During Fresher’s Week at the start of the academic year, Cambridge’s student societies hold introductory events known as "squashes" so freshers can explore their options and determine how they wish to spend their precious free time. CURTS is no exception.
 
 Our yearly squash is open to all students of the University, fresher or otherwise, and is generally our most popular event of the year. GMs new and old host RPG one-shots using a variety of game systems, so it’s an excellent place to start with something simple or, if you’re already experienced, start branching out into something new.
 
@@ -29,7 +29,7 @@ As with all our events, entry is free, so if you’re interested in seeing what 
 
 ### One-Shots / Adventurer’s Guild
 
-Each term we host four bi-weekly one-shot sessions on Saturday afternoons at Robinson’s College (and also online if that’s what you prefer). The organisation is based on Wizards of the Coast’s Adventurer’s League, but we offer much more flexibility. While the majority of sessions are D&D 5e, all systems are welcome (including ones you made) from Only War to our own society-made TNHS.
+Each term we host four bi-weekly one-shot sessions on Saturday afternoons (and also online if that’s what you prefer). The organisation is based on Wizards of the Coast’s Adventurer’s League, but we offer much more flexibility. While the majority of sessions are D&D 5e, all systems are welcome (including ones you made) from Only War to our own society-made TNHS.
 
 Players carry one character between 5e sessions, and gain rewards for each session played (whether they played a 5e game or not), with GMs getting extra bonuses. The one-shots are usually self-contained or loosely linked, and there are also mechanics in place to stop players falling behind, so there’s no pressure to turn up to every single session. For more details, join our discord, or just turn up to a session!
 

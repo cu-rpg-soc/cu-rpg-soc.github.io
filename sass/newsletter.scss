@@ -1,6 +1,6 @@
-html * {
-	font-family: 'Century Schoolbook', serif;
-
+html *,
+{
+font-family: 'Century Schoolbook', serif;
 }
 
 p {
@@ -10,4 +10,40 @@ p {
 
 ol p {
 	text-indent: 0px;
+}
+
+h3 {
+	margin-top: 0;
+}
+
+h2 {
+	margin-bottom: 0;
+}
+
+
+@font-face {
+	font-family: Deutschische;
+	src: url(history/Deutschische.otf);
+}
+
+.gothic * {
+	font-family: "Deutschische";
+	font-size: 1.5rem;
+}
+
+.cyber * {
+	font-family: "Courier";
+}
+
+.cyber,
+.gothic {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.std *,
+.std {
+	font-family: 'Century Schoolbook', serif;
+
+	font-size: 1rem;
 }

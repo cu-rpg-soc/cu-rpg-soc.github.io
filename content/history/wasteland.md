@@ -1,6 +1,7 @@
 +++
 title = "Wasteland"
-date = 1992-01-01 
+date = 1988-01-01 
+updated = 2023-03-23
 [extra]
 style = "wasteland"
 +++

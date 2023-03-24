@@ -20,9 +20,6 @@
 	margin-right: 3em;
 	margin-top: 1em;
 	margin-bottom: 1em;
-}
-
-.box p {
 	text-align: center;
 }
 
@@ -44,6 +41,18 @@ img {
 	max-width: 85%;
 }
 
+.cols {
+	columns: 30rem;
+}
+
+.cols_narrow {
+	columns: 15rem;
+}
+
+.narrow {
+	max-width: 40em;
+	margin: 0 auto;
+}
 
 .footnote-definition p {
 	display: inline;
@@ -57,7 +66,6 @@ img {
 
 	/* Sticky/fixed navbar */
 	padding-right: 50px;
-	width: 100%;
 
 	/* At the top */
 	z-index: 99;
