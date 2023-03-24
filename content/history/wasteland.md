@@ -226,6 +226,10 @@ Only for use if you are desperate, as nowadays most of this is full of system sp
 
 {{c(t="...Paul Francis")}}
 
+## The Quest for the Golden Codpiece[^cod]
+
+![Comic](/history/wasteland_comic.jpg)
+
 ## Sugar and Spice...{{br()}} ...Dragons and Dice?
 
 The night was slowly drawing in, and I was rather more rapidly drifting off into unconciousness over my second cup of coffee, when the presence Ofat least part of my mmd was required by a sudden change in the conversation.
@@ -322,6 +326,22 @@ But thus magic is a secret, not to be revealed except to high initiates. The asp
 22. Characters could be confused (7)
 23. The French good man or perhapshorseman? (7)
 28. Only one god per kilo (4)
+
+## Page Fourteen
+
+### Mustn't forget
+
+[^cod]: With all the mad rush to get the magazine out there's a thing or two we forgot to mention. Most importantly we must credit the artistic talents of Mark Fox and John Buckwotth for the first episode of 'The Quest for the Golden Codpiece'. Unfortunately we also forgot to list it in the contents so just in case you failed to find it turn to pages 7 and 8.
+
+### Official: Nuclear Subs Sanction D&D
+
+Our roving reporters have at last found proof that the Royal Navy have approved D&D for use on their nuclear submarines as a good form of escapism. Unfortunately for Games Workshop however who could have hoped for a large NATO deal, Warhammer has been deemed unsuitable. Apparently the reason is that as Warhammer is based around figures the players have to use glue and paints contamtng solvents that can't be filtered from the ventilation system.
+
+### Introduction to the Committee: No. I
+
+> **Bono** co-editor
+
+![bono](/history/bono.png)
 
 ---
 Context for readers in the year 2000 onwards:
