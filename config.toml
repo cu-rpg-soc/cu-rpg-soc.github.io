@@ -17,3 +17,5 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
+secretary_name = "Sam Hutton"
+secretary_crsid = "sh2154"

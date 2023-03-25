@@ -1,13 +1,18 @@
 {% extends "section.html" %}
 
 
-{% block list %}
+{% block listings %}
 
-<h1 class="title">List of former committees:</h1>
+<h1 class="title">Former Committees:</h1>
 
 <ul>
 	{% for page in section.pages %}
-	<li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+
+	<h2>{{ page.title | safe }}</h2>
+	{{ page.content | safe }}
+
+	<hr>
+
 	{% endfor %}
 </ul>
-{% endblock list %}
+{% endblock listings %}

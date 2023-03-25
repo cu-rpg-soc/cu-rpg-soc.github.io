@@ -11,8 +11,10 @@ author="Maxwell Pettett"
 
 The CURTS Committee organises the society’s activities and manages its finances and publicity. It consist of three elected members in addition to the Senior Treasurer:
 
+<!-- Edit the current committee in `config.toml` -->
+
 - President Kepler Petzall (kp556)
-- Secretary Sam Hutton (sh2154)
+- Secretary {{sec_name()}} ({{sec_crsid()}})
 - Junior Treasurer James Cowie (jc2333)
 
 In addition, Alyssa Joffe (jj532) currently holds the position of Vice President, an extra-constitutional position to provide for leadership in the event of the President’s absence or otherwise lack of availability.

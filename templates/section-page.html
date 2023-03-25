@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block head %}
-<link rel="stylesheet" href="/{%if page.extra['style']%}{{page.extra['style']}}{%else%}default{%endif%}.css">
+<link rel="stylesheet" href="{%-if page.extra['style']-%}/{{-page.extra['style']-}}.css{%-else-%}/default.css{%-endif-%}">
 {% endblock %}
 
 
