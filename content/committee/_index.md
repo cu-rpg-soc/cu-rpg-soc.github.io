@@ -8,6 +8,7 @@ page_template = "section-page.html"
 date = 2023-03-03
 author="Maxwell Pettett"
 +++
+{{begin(c='highlight')}}
 
 The CURTS Committee organises the society’s activities and manages its finances and publicity. It consist of three elected members in addition to the Senior Treasurer:
 
@@ -22,5 +23,7 @@ In addition, Alyssa Joffe (jj532) currently holds the position of Vice President
 James Bedwell (jwb68) holds the extra-constitutional position of guildmaster, to organise and make rulings on the Adventurer’s Guild (see What We Do for more details).
 
 Members of the CURTS Committee are elected by members of the society at the Annual General Meeting. The responsibilities of the committee members are outlined in the CURTS Constitution.
+
+{{end()}}
 
 See the [history](/history/) for more about this committee.

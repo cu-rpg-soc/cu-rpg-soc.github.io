@@ -1,0 +1,42 @@
+{%extends "orphan-page.html"%}
+{%block content%}
+
+<div class="highlight">
+	<p>Below is a list of books available to society members in the CURTS Library. To take out a book, please email the secretary, currently {{config.extra.secretary_name}}, [{{config.extra.secretary_crsid}} at cam dot ac dot uk]. Books are sorted in alphabetical order by system:</p>
+</div>
+{% set data = load_data(path='content/games-resources/library.json', format="json") %}
+
+
+<dl class="library">
+	{%for sys, cats in data%}
+
+	<dt class="system">
+		{{sys}}
+	</dt>
+	<dd>
+
+		<dl>
+			{% for type, books in cats%}
+
+			<dt>
+				{{type}}
+			</dt>
+
+			{% for book, num in books%}
+
+			<dd>
+				{{num}} x {{book}}
+			</dd>
+
+			{%endfor%}
+
+			{%endfor%}
+		</dl>
+	</dd>
+
+	{%endfor%}
+
+
+</dl>
+
+{%endblock content%}

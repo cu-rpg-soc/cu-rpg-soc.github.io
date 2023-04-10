@@ -1,14 +1,14 @@
 +++
 title = "Library"
+template = "games-resources/library.html"
 date = 2023-03-03
-updated = 2023-03-24
-template = "orphan-page.html" 
+updated = 2023-03-24 
 [extra]
 author="Maxwell Pettett"
 +++
  
 
-Below is a list of books available to society members in the CURTS Library. To take out a book, please email the secretary, currently {{sec_name()}}, {{sec_email()}}. Books are sorted in alphabetical order by system:
+
 
 ## 13th Age
 

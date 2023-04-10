@@ -1,4 +1,6 @@
-html * {
+@import url('global.css');
+
+.content {
 	font-family: 'MS Serif Regular', serif;
 
 }
@@ -14,16 +16,16 @@ html * {
 	font-size: 0.7rem;
 }
 
-h1,
-h2 {
+.content h1,
+.content h2 {
 	text-align: center
 }
 
-h3 {
+.content h3 {
 	margin-bottom: 0;
 }
 
-p {
+.content p {
 	margin-top: 0;
 }
 

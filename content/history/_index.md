@@ -8,9 +8,12 @@ date = 2023-03-22
 author="Maxwell Pettett"
 +++
 
+{{begin(c='highlight')}}
+
 Currently this history is derived from folk knowledge, and a set of pdfs gathered from UL archive SOC.XXXV. If anything is missing or incorrectly transcribed, please scream about it on the discord server.
 
 The origins of the magazine wasteland are not known, and appears to have died and been restarted several times during the tenure of the society.
+{{end()}}
 
 ## Transcriptions
 
