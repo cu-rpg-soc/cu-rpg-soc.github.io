@@ -29,7 +29,7 @@ As with all our events, entry is free, so if you’re interested in seeing what 
 
 ### One-Shots / Guild of Heroes, Rapscallions and Allied Trades
 
-Each term we host four bi-weekly one-shot sessions on Saturday afternoons (and also online if that’s what you prefer). These sessions comprise of a number of different RPG systems and are connected by a loose "canon" that culminates in our 24hr game at the end of the year.
+Each term we host four bi-weekly one-shot sessions on Saturday afternoons in the Boys Smith Room at St John's College (and also online if that’s what you prefer). These sessions comprise of a number of different RPG systems and are connected by a loose "canon" that culminates in our 24hr game at the end of the year.
 
 Players carry one character between sessions, and go up in Guild rank for each session played even as a GM. The one-shots are usually self-contained or loosely linked, and there are also mechanics in place to stop players falling behind, so there’s no pressure to turn up to every single session. For more details, join our discord, or just turn up to a session!
 
