@@ -1,13 +1,13 @@
 +++
 title = "What We Do"
-date = 2023-03-03
+date = 2023-10-03
 template = "orphan-page.html" 
 [extra]
-author="Maxwell Pettett"
+author="Gwendolen Sellers"
 +++
 ## What We Play
 
-CURTS primarily acts as a hub for tabeletop roleplaying, strategy and trading card game enthusiasts. For those unfamiliar, these terms can conjure up a whole range of associations and mental images. For the benefit of the interested but unsure, these terms are clarified below.
+CURTS primarily acts as a hub for tabletop roleplaying, wargaming, strategy and trading card game enthusiasts. For those unfamiliar, these terms can conjure up a whole range of associations and mental images. For the benefit of the interested but unsure, these terms are clarified below.
 
 ### Roleplaying Games (RPGs)
 
@@ -15,7 +15,7 @@ RPGs are best described as a unique hybrid of board game and improvisational the
 
 A typical RPG sessions consists of the GM presenting the players with a scenario and then allowing the players to proceed in whichever way they see fit. Unlike a video game, an RPG does not typically constrain a player’s actions to a set of limited commands; a player can have their PC attempt anything they can imagine. Players tell the GM what they would like to do and the GM arbitrates the action through the game rules and tells the player the result. This continues as each player interacts with the game world and the other players, resulting in a steadily unfolding freeform story created by the players’ decisions and actions.
 
-The bulk of our membership play RPGs, and our bi-weekly one-shot sessions typically involve a wide range of RPGs, mostly Dungeons & Dragons thanks to its classic status and simple mechanics.
+The bulk of our membership play RPGs, and our bi-weekly one-shot sessions typically involve a wide range of RPGs, mostly Dungeons & Dragons due to its popularity.
 
 ## Regular Events
 
@@ -27,11 +27,11 @@ Our yearly squash is open to all students of the University, fresher or otherwis
 
 As with all our events, entry is free, so if you’re interested in seeing what CURTS has to offer this is your best place to start.
 
-### One-Shots / Adventurer’s Guild
+### One-Shots / Guild of Heroes, Rapscallions and Allied Trades
 
-Each term we host four bi-weekly one-shot sessions on Saturday afternoons (and also online if that’s what you prefer). The organisation is based on Wizards of the Coast’s Adventurer’s League, but we offer much more flexibility. While the majority of sessions are D&D 5e, all systems are welcome (including ones you made) from Only War to our own society-made TNHS.
+Each term we host four bi-weekly one-shot sessions on Saturday afternoons (and also online if that’s what you prefer). These sessions comprise of a number of different RPG systems and are connected by a loose "canon" that culminates in our 24hr game at the end of the year.
 
-Players carry one character between 5e sessions, and gain rewards for each session played (whether they played a 5e game or not), with GMs getting extra bonuses. The one-shots are usually self-contained or loosely linked, and there are also mechanics in place to stop players falling behind, so there’s no pressure to turn up to every single session. For more details, join our discord, or just turn up to a session!
+Players carry one character between sessions, and go up in Guild rank for each session played even as a GM. The one-shots are usually self-contained or loosely linked, and there are also mechanics in place to stop players falling behind, so there’s no pressure to turn up to every single session. For more details, join our discord, or just turn up to a session!
 
 People are also welcome to organise other types of games entirely such as wargames or trading card games.
 

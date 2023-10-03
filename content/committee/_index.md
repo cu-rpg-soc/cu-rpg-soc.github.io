@@ -5,8 +5,8 @@ template = "committee.html"
 page_template = "section-page.html"
 
 [extra]
-date = 2023-03-03
-author="Maxwell Pettett"
+date = 2023-10-03
+author="Gwendolen Sellers"
 +++
 {{begin(c='highlight')}}
 
@@ -14,13 +14,13 @@ The CURTS Committee organises the society’s activities and manages its finance
 
 <!-- Edit the current committee in `config.toml` -->
 
-- President Kepler Petzall (kp556)
+- President {{president_name()}}
 - Secretary {{sec_name()}} ({{sec_crsid()}})
-- Junior Treasurer James Cowie (jc2333)
+- Junior Treasurer {{treasurer_name}} ({{treasurer_crsid}})
 
-In addition, Alyssa Joffe (jj532) currently holds the position of Vice President, an extra-constitutional position to provide for leadership in the event of the President’s absence or otherwise lack of availability.
+In addition, Sol Dubock (sjd210) currently holds the position of Vice President, an extra-constitutional position to provide for leadership in the event of the President’s absence or otherwise lack of availability and serves as the President of Vice who organises our bi-weekly pub nights.
 
-James Bedwell (jwb68) holds the extra-constitutional position of guildmaster, to organise and make rulings on the Adventurer’s Guild (see What We Do for more details).
+Jago Westaway (jw2237) holds the extra-constitutional position of guildmaster, to organise and make rulings on the Guild of Heroes, Rapscallions and Allied Trades (see 'What We Do' for more details).
 
 Members of the CURTS Committee are elected by members of the society at the Annual General Meeting. The responsibilities of the committee members are outlined in the CURTS Constitution.
 
