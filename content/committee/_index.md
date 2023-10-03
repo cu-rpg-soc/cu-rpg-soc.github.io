@@ -14,9 +14,9 @@ The CURTS Committee organises the society’s activities and manages its finance
 
 <!-- Edit the current committee in `config.toml` -->
 
-- President {{president_name()}}
-- Secretary {{sec_name()}} ({{sec_crsid()}})
-- Junior Treasurer {{treasurer_name}} ({{treasurer_crsid}})
+- President Deryn
+- Secretary Gwendolen Sellers (gads2)
+- Junior Treasurer James Cowie (jc2333)
 
 In addition, Sol Dubock (sjd210) currently holds the position of Vice President, an extra-constitutional position to provide for leadership in the event of the President’s absence or otherwise lack of availability and serves as the President of Vice who organises our bi-weekly pub nights.
 
