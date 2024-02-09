@@ -4,24 +4,38 @@
 			"13th Age Core Rulebook": 1
 		}
 	},
+	"Advanced D&D (1st Edition)":{
+		"Supplements":{
+			"AD&D Deities & Demigods" : 1
+		}
+	},
+	"Call of Cthulhu":{
+		"Rules":{
+			"Call of Cthulhu : Keeper Rulebook": 1
+		}
+	},
 	"Dark Heresy": {
 		"Rules": {
 			"Dark Heresy Core Rulebook": 1
 		},
-		"Supplements": {
+		"Adventures": {
 			"Forgotten Gods": 1
 		}
 	},
 	"Dungeons & Dragons 5e": {
 		"Rules": {
 			"Dungeon Master's Guide": 1,
-			"Monster Manual": 2,
-			"Player's Handbook": 1
+			"Player's Handbook": 1,
+			"Monster Manual": 1
 		},
 		"Supplements": {
-			"Hoard of the Dragon Queen": 1,
-			"The Rise of Tiamat": 1,
-			"Waterdeep - Dragon Heist": 1
+			"Tasha's Cauldron of Everything": 1,
+			"Xanathar's Guide to Everything" : 1,
+			"D&D Essentials Kit" : 1
+		},
+		"Adventures":{
+			"Baldurs Gate: Descent into Avernus" : 1,
+			"Icewind Dale: Rime of the Frostmaiden":1
 		}
 	},
 	"Numenera": {
@@ -29,20 +43,20 @@
 			"Numenera Core Rulebook": 1
 		}
 	},
-	"Only War": {
+	"Only War (Warhammer 40k)": {
 		"Rules": {
 			"Only War Core Rulebook": 1
 		},
-		"Supplements": {
+		"Adventures": {
 			"Final Testament": 1
 		}
 	},
 	"Pathfinder": {
 		"Rules": {
-			"Bestiary": 1,
-			"Pathfinder Core Rulebook": 1
+			"Pathfinder Core Rulebook": 1,
+			"Pathfinder Bestiary": 1
 		},
-		"Supplements": {
+		"Adventures": {
 			"Rise of the Runelords": 1
 		}
 	},
@@ -57,6 +71,11 @@
 	"Stars Without Number": {
 		"Rules": {
 			"Stars Without Number Core Rulebook": 1
+		}
+	},
+	"Warhammer Fantasy Roleplay": {
+		"Supplements": {
+			"Realm of Chaos: Slaves to Darkness":1
 		}
 	}
 }

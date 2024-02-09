@@ -2,9 +2,9 @@
 title = "Library"
 template = "games-resources/library.html"
 date = 2023-03-03
-updated = 2023-03-24 
+updated = 2024-02-09 
 [extra]
-author="Maxwell Pettett"
+author="Gwendolen Sellers"
 +++
  
 
@@ -16,13 +16,25 @@ author="Maxwell Pettett"
 
 - 1x 13th Age Core Rulebook
 
+## Advanced Dungeons & Dragons (1st edition)
+
+### Supplements
+
+- 1x AD&D Deities & Demigods
+
+## Call of Cthulhu
+
+### Rules
+
+- 1x Call of Cthulhu : Keeper Rulebook
+
 ## Dark Heresy
 
 ### Rules
 
 - 1x Dark Heresy Core Rulebook
 
-### Supplements
+### Adventures
 
 - 1x Forgotten Gods
 
@@ -31,14 +43,18 @@ author="Maxwell Pettett"
 ### Rules
 
 - 1x Dungeon Master’s Guide
-- 2x Monster Manual
 - 1x Player’s Handbook
+- 1x Monster Manual
 
 ### Supplements
 
-- 1x Hoard of the Dragon Queen
-- 1x The Rise of Tiamat
-- 1x Waterdeep – Dragon Heist
+- 1x Tasha's Cauldron of Everything
+- 1x Xanathar's Guide to Everything
+- 1x D&D Essentials Kit
+
+### Adventures
+- 1x Baldurs Gate: Descent into Avernus
+- 1x Icewind Dale: Rime of the Frostmaiden
 
 ## Numenera
 
@@ -46,13 +62,13 @@ author="Maxwell Pettett"
 
 - 1x Numenera Core Rulebook
 
-## Only War
+## Only War (Warhammer 40k)
 
 ### Rules
 
 - 1x Only War Core Rulebook
 
-### Supplements
+### Adventures
 
 - 1x Final Testament
 
@@ -60,10 +76,10 @@ author="Maxwell Pettett"
 
 ### Rules
 
-- 1x Bestiary
 - 1x Pathfinder Core Rulebook
+- 1x Pathfinder Bestiary
 
-### Supplements
+### Adventures
 
 - 1x Rise of the Runelords
 
@@ -77,8 +93,21 @@ author="Maxwell Pettett"
 
 - 1x Sprawl Wilds
 
+## Shadow War: Armaggedon
+
+### Rules
+
+- 1x Shadow War: Armaggedon
+
 ## Stars Without Number
 
 ### Rules
 
 - 1x Stars Without Number Core Rulebook
+
+
+## Warhammer Fantasy Roleplay
+
+### Supplements
+
+- 1x Realm of Chaos: Slaves to Darkness
