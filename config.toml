@@ -33,4 +33,4 @@ guildmaster_name = "David Ruston"
 guildmaster_crsid = "dr601"
 
 technomancer_name = "Benedict Orlich"
-technomancer_crsid = "bo310"templates/shortcodes/vice_pres_crsid.html
+technomancer_crsid = "bo310"
