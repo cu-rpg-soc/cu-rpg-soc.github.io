@@ -1,9 +1,9 @@
 +++
 title = "Constitution"
-date = 2023-03-03
+date = 2025-08-04
 template = "orphan-page.html" 
 [extra]
-author="Maxwell Pettett"
+author="Benedict Orlich"
 +++
 
 
