@@ -19,7 +19,18 @@ smart_punctuation = true
 # Put all your custom variables here
 president_name = "Tomas Heger"
 president_crsid = "th676"
+
 secretary_name = "Eleanor Marshall"
 secretary_crsid = "the crsid formerly known as em919"
+
 treasurer_name = "Emily Betts"
 treasurer_crsid = "eb981"
+
+vice_pres_name = "Oliver Halliwell"
+vice_pres_name = "omh25"
+
+guildmaster_name = "David Ruston"
+guildmaster_crsid = "dr601"
+
+technomancer_name = "Benedict Orlich"
+technomancer_crsid = "bo310"templates/shortcodes/vice_pres_crsid.html
