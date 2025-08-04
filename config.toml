@@ -17,8 +17,9 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
-president_name = "Deryn"
-secretary_name = "Gwendolen Sellers"
-secretary_crsid = "gads2"
-treasurer_name = "James Cowie"
-treasurer_crsid = "jc2333"
+president_name = "Tomas Heger"
+president_crsid = "th676"
+secretary_name = "Eleanor Marshall"
+secretary_crsid = "the crsid formerly known as em919"
+treasurer_name = "Emily Betts"
+treasurer_crsid = "eb981"
