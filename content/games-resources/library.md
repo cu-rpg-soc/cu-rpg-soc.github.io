@@ -10,12 +10,6 @@ author="Gwendolen Sellers"
 
 
 
-## 13th Age
-
-### Rules
-
-- 1x 13th Age Core Rulebook
-
 ## Advanced Dungeons & Dragons (1st edition)
 
 ### Supplements
