@@ -14,7 +14,7 @@ The CURTS Committee organises the society’s activities and manages its finance
 
 <!-- Edit the current committee in `config.toml` -->
 
-- **President:**: {{president_name()}} ({{president_crsid()}})
+- **President:** {{president_name()}} ({{president_crsid()}})
     - Manages committee, chairs meetings, guides the overall direction of the society.
 - **Secretary:** {{secretary_name()}} ({{secretary_crsid()}})
     - Holds the ['library'](@/games-resources/library.md), performs outreach (including managing the social media), and keeps minutes of meetings.
