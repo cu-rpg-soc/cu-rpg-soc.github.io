@@ -17,7 +17,7 @@ The CURTS Committee organises the society’s activities and manages its finance
 - **President:** {{president_name()}} ({{president_crsid()}})
     - Manages committee, chairs meetings, guides the overall direction of the society.
 - **Secretary:** {{secretary_name()}} ({{secretary_crsid()}})
-    - Holds the ['library'](@/games-resources/library.md), performs outreach (including managing the social media), and keeps minutes of meetings.
+    - Holds the CURTS [Library](@/games-resources/library.md), performs outreach (including managing the social media), and keeps minutes of meetings.
 - **Junior Treasurer:** {{treasurer_name()}} ({{treasurer_crsid()}})
     - Manages finances, including collecting membership fees (see ['Membership'](@/about-us/membership.md) for more details) as well as managing stash.
 - **Vice President:** {{vice_pres_name()}} ({{vice_pres_crsid()}})
