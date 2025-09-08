@@ -14,6 +14,11 @@
 			"Call of Cthulhu : Keeper Rulebook": 1
 		}
 	},
+	"Cyberpunk Red": {
+		"Rules": {
+			"Cyberpunk Red Jumpstart Kit": 1
+		}
+	},
 	"Dark Heresy": {
 		"Rules": {
 			"Dark Heresy Core Rulebook": 1
@@ -60,6 +65,11 @@
 			"Rise of the Runelords": 1
 		}
 	},
+	"RuneQuest": {
+		"Rules": {
+			"RuneQuest Starter Kit": 1
+		}
+	},
 	"Shadowrun": {
 		"Rules": {
 			"Shadowrun Core Rulebook": 1
@@ -71,6 +81,11 @@
 	"Stars Without Number": {
 		"Rules": {
 			"Stars Without Number Core Rulebook": 1
+		}
+	},
+	"The Watch": {
+		"Rules": {
+			"The Watch": 1
 		}
 	},
 	"Warhammer Fantasy Roleplay": {
