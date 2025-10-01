@@ -1,10 +1,10 @@
 +++
 title = "Library"
 template = "games-resources/library.html"
-date = 2024-02-09
-updated = 2024-02-09 
+date = 2025-10-01
+updated = 2025-10-01
 [extra]
-author="Gwendolen Sellers"
+author="Benedict Orlich"
 +++
  
 
