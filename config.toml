@@ -17,20 +17,20 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
-president_name = "Tomas Heger"
-president_crsid = "th676"
+president_name = "Oliver Halliwell"
+president_crsid = "omh25"
 
-secretary_name = "Eleanor Marshall"
-secretary_crsid = "the crsid formerly known as em919"
+secretary_name = "Joseph Hunt"
+secretary_crsid = "jch204"
 
-treasurer_name = "Emily Betts"
-treasurer_crsid = "eb981"
+treasurer_name = "Gethin Brown"
+treasurer_crsid = "gsb50"
 
-vice_pres_name = "Oliver Halliwell"
-vice_pres_crsid = "omh25"
+vice_pres_name = "David Ruston"
+vice_pres_crsid = "dr601"
 
-guildmaster_name = "David Ruston"
-guildmaster_crsid = "dr601"
+guildmaster_name = "Juthika Sarma"
+guildmaster_crsid = "js2858"
 
 technomancer_name = "Benedict Orlich"
 technomancer_crsid = "bo310"
