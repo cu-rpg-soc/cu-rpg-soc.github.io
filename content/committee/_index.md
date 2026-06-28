@@ -5,7 +5,7 @@ template = "committee.html"
 page_template = "section-page.html"
 
 [extra]
-date = 2025-08-04
+date = 2026-06-28
 author="Benedict Orlich"
 +++
 {{begin(c='highlight')}}
