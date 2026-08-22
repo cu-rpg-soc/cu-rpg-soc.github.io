@@ -1,7 +1,7 @@
 +++
 title = "What We Do"
 date = 2023-10-03
-template = "orphan-page.html" 
+template = "about-us/what-we-do.html" 
 [extra]
 author="Gwendolen Sellers"
 +++
@@ -9,13 +9,13 @@ author="Gwendolen Sellers"
 
 CURTS primarily acts as a hub for tabletop roleplaying, wargaming, strategy and trading card game enthusiasts. For those unfamiliar, these terms can conjure up a whole range of associations and mental images. For the benefit of the interested but unsure, these terms are clarified below.
 
-### Roleplaying Games (RPGs)
+### Tabletop Roleplaying Games (RPGs)
 
 RPGs are best described as a unique hybrid of board game and improvisational theatre. RPGs are generally played in groups of 3-6 players, though other group sizes are possible. Typically, one player takes on the role of Gamemaster (GM). The GM constructs and controls the world in which the game takes place and acts as a conduit between the other players and the game world. The other players take on the role of Player Characters (PCs) who exist within and can interact with the game world. When interacting with the game world, players are encouraged to act as their PCs woud, hence the term “roleplaying” game.
 
 A typical RPG sessions consists of the GM presenting the players with a scenario and then allowing the players to proceed in whichever way they see fit. Unlike a video game, an RPG does not typically constrain a player’s actions to a set of limited commands; a player can have their PC attempt anything they can imagine. Players tell the GM what they would like to do and the GM arbitrates the action through the game rules and tells the player the result. This continues as each player interacts with the game world and the other players, resulting in a steadily unfolding freeform story created by the players’ decisions and actions.
 
-The bulk of our membership play RPGs, and our bi-weekly one-shot sessions typically involve a wide range of RPGs, mostly Dungeons & Dragons due to its popularity.
+The bulk of our membership play RPGs, and our bi-weekly one-shot sessions typically involve a wide range of RPGs, including Dungeons & Dragons due to its popularity.
 
 ## Regular Events
 
