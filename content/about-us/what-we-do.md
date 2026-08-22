@@ -1,7 +1,8 @@
 +++
 title = "What We Do"
 date = 2023-10-03
-template = "about-us/what-we-do.html" 
+<!-- template = "about-us/what-we-do.html" -->
+template = "orphan-page.html"
 [extra]
 author="Gwendolen Sellers"
 +++

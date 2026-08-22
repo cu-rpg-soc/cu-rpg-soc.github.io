@@ -1,8 +1,14 @@
 {%extends "orphan-page.html"%}
 {%block content%}
 
+<h1 class="title">
+	{{ page.title }}
+</h1>
+
 <div class="highlight">
 	<p>This page is out of date. Please come back in the future when we've updated it.</p>
 </div>
+
+{{ page.content | safe }}
 
 {%endblock content%}
