@@ -1,11 +1,11 @@
 +++
-title = "What We Do"
+title = "FAQs"
 date = 2026-09-30
 template = "orphan-page.html"
 [extra]
 author="Benedict Orlich"
 +++
-# FAQs
+<!-- # FAQs -->
 ## What is a tabletop roleplaying game, anyway?
 RPGs are best described as a unique hybrid of board game and improvisational theatre. RPGs are generally, but not always, played in groups of 3-6 players. Typically, one player takes on the role of Gamemaster (GM). The GM constructs and controls the world in which the game takes place and acts as a conduit, narrator and referee between the other players and the game world. The other players take on the role of Player Characters (PCs, characters) who exist within and can interact with the game world. When interacting with the game world, players are encouraged to act as their PCs would, hence the term “roleplaying” game.
 A typical RPG session consists of the GM presenting the players with a scenario and then allowing the players to proceed in whichever way they see fit. Unlike a video game, an RPG does not typically constrain a player’s actions to a set of limited commands; a player can have their PC attempt anything they can imagine. Players tell the GM what they would like to do and the GM arbitrates the action through the game rules and tells the player the result. This continues as each player interacts with the game world and the other players, resulting in a steadily unfolding freeform story created by the players’ decisions and actions.
