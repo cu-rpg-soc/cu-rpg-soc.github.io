@@ -26,7 +26,7 @@ If you haven’t had enough roleplaying, then the LARP society runs events on al
 ## Where do you run your events?
 In a variety of rooms, usually on college or university grounds. The exact bookings will be released with our termcard, and we make sure to send out maps of the locations before each session. If the booked room requires a key, keycard access, etc., then we are more than happy to let people in.
 ## How can I sign up?
-On our [Discord server](https://discord.gg/WEAAtHCF47")! Before each game session, we ask people running games to write a short description; players can then react to the session that they want to play in. We kindly ask that you sign up only to one game, and that you respect the maximum number of poss ible players stated by the person running the game.
+On our [Discord server](https://discord.gg/WEAAtHCF47)! Before each game session, we ask people running games to write a short description; players can then react to the session that they want to play in. We kindly ask that you sign up only to one game, and that you respect the maximum number of possible players stated by the person running the game.
 
 ## Do you play...
 ### Dungeons and Dragons?
